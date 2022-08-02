@@ -1,0 +1,4 @@
+name: BlockEventPlugin
+version: '${project.version}'
+main: apl.aplugin.Main
+api-version: 1.19
